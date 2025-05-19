@@ -9,4 +9,4 @@ jobs:
   test_job:
     runs-on: ubuntu-latest
     steps:
-      - run: echa "Hello" 
+      - run: echo "Hello" 
